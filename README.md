@@ -1,4 +1,4 @@
-### Bank_Customers_Churn
+# Bank_Customers_Churn
 
 
 ### Software and tools requirements
@@ -8,10 +8,10 @@
     3. VSCode IDE
     4. Heroku
 
-# Create a new environment
+### Create a new environment
 
     python -m venv .venv
 
-# Activate the environment
+### Activate the environment
 
     .venv/Scripts/activate 
